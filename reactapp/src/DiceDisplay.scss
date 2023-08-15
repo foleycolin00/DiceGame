@@ -19,6 +19,13 @@
             justify-content: space-evenly;
         }
 
+        &-time {
+            margin: 10px 0;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+
         &-column {
             display: flex;
             justify-content: center;

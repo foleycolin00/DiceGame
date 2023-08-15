@@ -8,6 +8,7 @@ export default class DiceDisplay extends Component {
         //Set the default for the state
         this.state = {
             rollData: {},
+            elapsedMilliseconds: 0,
             formData: {
                 numberOfRolls: 100,
                 face1: {
@@ -90,10 +91,12 @@ export default class DiceDisplay extends Component {
                         <Tooltip />
                     </ComposedChart>
                 </ResponsiveContainer>
-                <div class="display__form-row">
-                    <label value={this.state.rollData.elapsedMilliseconds | ""}></label>
-                </div>
+
                 <div class="display__form">
+                    <div class="display__form-time">
+                        <label>Elapsed Time(ms):</label>
+                        {this.state.elapsedMilliseconds}
+                    </div>
                     <div class="display__form-row">
                         <div class="display__form-column">
                             <label># Rolls:</label>
@@ -168,6 +171,6 @@ export default class DiceDisplay extends Component {
             rollData.push({ side: key, percent: data.rolls[key] });
         });
         //set the state from the returned data
-        this.setState({ formData: this.state.formData, rollData: rollData });
+        this.setState({ formData: this.state.formData, rollData: rollData, elapsedMilliseconds: data.elapsedMilliseconds });
     }
 }
