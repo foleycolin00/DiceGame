@@ -1,2 +1,4 @@
 C:\Users\foleycx\source\repos\ColinDice\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
 C:\Users\foleycx\source\repos\ColinDice\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\foleycx\source\DiceGame\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\foleycx\source\DiceGame\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache

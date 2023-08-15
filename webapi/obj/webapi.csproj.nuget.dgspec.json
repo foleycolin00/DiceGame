@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\webapi.csproj": {}
+    "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\webapi.csproj": {
+    "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\foleycx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\foleycx\\AppData\\Roaming\\NuGet\\NuGet.Config",

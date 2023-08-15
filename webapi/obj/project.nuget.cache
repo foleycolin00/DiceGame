@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEnl92aiabgmiKdGN9AupAACMj+etSk10fvvYwuMgfNeS/U/G4TU4Do95hNx1diWfrlPWBrTjiXIqT9vM3wg3Q==",
+  "dgSpecHash": "1YAJgrBk7rfyK/tga3Rr3pfAsVQaXsfxYBf4XhqA4vFXZ7Q627Xc16I8CAHdnceOjA4QzXrLwIY6CN8cbl2fNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\foleycx\\source\\repos\\ColinDice\\webapi\\webapi.csproj",
+  "projectFilePath": "C:\\Users\\foleycx\\source\\DiceGame\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\foleycx\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
     "C:\\Users\\foleycx\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
