@@ -1,0 +1,36 @@
+.display {
+    width: 100%;
+    height: 100%;
+
+    .recharts-responsive-container {
+        margin: 50px 0;
+    }
+
+    &__form {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+        &-row {
+            margin: 10px 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        &-column {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        label {
+            justify-content: center;
+        }
+
+        &-submit {
+            width: 10%;
+        }
+    }
+}

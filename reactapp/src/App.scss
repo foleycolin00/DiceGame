@@ -1,0 +1,26 @@
+html, body, #root {
+    height: 100%;
+}
+
+.component-app {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+
+    &__table {
+        margin: 20px;
+        background-color: darkgreen;
+        border-radius: 150px;
+        flex-grow: 1;
+    }
+
+    &__title {
+        color: white;
+        font-size: 30px;
+        justify-content: center;
+        display: flex;
+        margin-top: 20px;
+    }
+}
